@@ -1,10 +1,10 @@
 # IBM NaanMudalvan Project Description 
-### CAD Phase 1:-<br>
+<u>CAD Phase 1:-<br></u>
 <p> - Machine Learning Algorithm Used: Linear Regression<br>
     - DataSet Used: IMD (Indian Meteorological Department) Temperature Analysis<br>
     - Visualization Techniques Used: Matplotlib Scatter<br>
     - Description: We employed the Linear Regression machine learning algorithm to analyze temperature data sourced from the Indian Meteorological Department (IMD). Our goal was to gain insights into temperature deviations using this algorithm. To enhance our understanding and visualize the data, we utilized Matplotlib Scatter plots, which allowed us to create graphical representations of the temperature analysis, facilitating the interpretation of trends and patterns in temperature data. This initial phase laid the foundation for further data analysis and modeling in our climate and weather-related research.<br> </p>
-### CAD Phase 2:-<br>
+CAD Phase 2:-<br>
 <p> - <u>Machine Learning Algorithm Used:</u> Support Vector Machine (SVM) and Bagging Ensemble<br>
     - DataSet Used: Pima Diabetes Dataset<br>
     - Visualization Techniques Used: Matplotlib Histogram<br>
