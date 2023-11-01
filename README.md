@@ -14,7 +14,7 @@ CAD Phase 3:-<br>
 <p> - Database Used: IBM DB2 Dataset Created Using SQL Commands<br>
 <p> - Description: We employed the Random Forest Regressor machine learning algorithm to analyze and make predictions on a dataset created from an IBM DB2 database using SQL commands. This algorithm is particularly useful for regression tasks, where it can provide valuable insights and predictions based on the data stored in the database.<br>
 CAD Phase 4:-<br>
-    - Machine Learning Algorithm Used: Multiple Regression
-    - DataSet Used: USA House Price Dataset
+    - Machine Learning Algorithm Used: Multiple Regression<br>
+    - DataSet Used: USA House Price Dataset<br>
     - Visualization Techniques Used: Matplotlib Scatter
     - Description: In this project, we applied the Multiple Regression machine learning algorithm to the USA House Price Dataset. Multiple Regression was used to model the relationship between multiple independent variables and house prices. Matplotlib Scatter plots were employed for visualizing these relationships. The project's primary objective was to predict and gain insights into the factors influencing house prices in the United States, providing valuable information for decision-making in the real estate market.
