@@ -1,19 +1,19 @@
-# IBM NaanMudalvan Project Description
+# IBM NaanMudalvan Project Description 
 CAD Phase 1:-<br>
-    - Machine Learning Algorithm Used: Linear Regression<br>
-    - DataSet Used: IMD (Indian Meteorological Department) Temperature Analysis
-    - Visualization Techniques Used: Matplotlib Scatter
-    - Description: We employed the Linear Regression machine learning algorithm to analyze temperature data sourced from the Indian Meteorological Department (IMD). Our goal was to gain insights into temperature deviations using this algorithm. To enhance our understanding and visualize the data, we utilized Matplotlib Scatter plots, which allowed us to create graphical representations of the temperature analysis, facilitating the interpretation of trends and patterns in temperature data. This initial phase laid the foundation for further data analysis and modeling in our climate and weather-related research.
-CAD Phase 2:-<
-    - Machine Learning Algorithm Used: Support Vector Machine (SVM) and Bagging Ensemble
-    - DataSet Used: Pima Diabetes Dataset
-    - Visualization Techniques Used: Matplotlib Histogram
-    - Description: We employed a combination of two powerful machine learning techniques, the Support Vector Machine (SVM) and Bagging Ensemble, to analyze the Pima Diabetes Dataset. Our goal was to gain insights and make predictions related to diabetes. To better understand the data and the distribution of relevant features, we used Matplotlib to create informative histograms. This phase aimed to leverage advanced algorithms and visualization methods for comprehensive diabetes analysis and prediction.
-CAD Phase 3:-
-    - Machine Learning Algorithm Used: Random Forest Regressor
-    - Database Used: IBM DB2 Dataset Created Using SQL Commands
-    - Description: We employed the Random Forest Regressor machine learning algorithm to analyze and make predictions on a dataset created from an IBM DB2 database using SQL commands. This algorithm is particularly useful for regression tasks, where it can provide valuable insights and predictions based on the data stored in the database.
-CAD Phase 4:-
+<p> - Machine Learning Algorithm Used: Linear Regression<br>
+<p> - DataSet Used: IMD (Indian Meteorological Department) Temperature Analysis<br>
+<p> - Visualization Techniques Used: Matplotlib Scatter<br>
+<p> - Description: We employed the Linear Regression machine learning algorithm to analyze temperature data sourced from the Indian Meteorological Department (IMD). Our goal was to gain insights into temperature deviations using this algorithm. To enhance our understanding and visualize the data, we utilized Matplotlib Scatter plots, which allowed us to create graphical representations of the temperature analysis, facilitating the interpretation of trends and patterns in temperature data. This initial phase laid the foundation for further data analysis and modeling in our climate and weather-related research.<br>
+CAD Phase 2:-<br>
+<p> - Machine Learning Algorithm Used: Support Vector Machine (SVM) and Bagging Ensemble<br>
+<p> - DataSet Used: Pima Diabetes Dataset<br>
+<p> - Visualization Techniques Used: Matplotlib Histogram<br>
+<p> - Description: We employed a combination of two powerful machine learning techniques, the Support Vector Machine (SVM) and Bagging Ensemble, to analyze the Pima Diabetes Dataset. Our goal was to gain insights and make predictions related to diabetes. To better understand the data and the distribution of relevant features, we used Matplotlib to create informative histograms. This phase aimed to leverage advanced algorithms and visualization methods for comprehensive diabetes analysis and prediction.<br>
+CAD Phase 3:-<br>
+<p> - Machine Learning Algorithm Used: Random Forest Regressor<br>
+<p> - Database Used: IBM DB2 Dataset Created Using SQL Commands<br>
+<p> - Description: We employed the Random Forest Regressor machine learning algorithm to analyze and make predictions on a dataset created from an IBM DB2 database using SQL commands. This algorithm is particularly useful for regression tasks, where it can provide valuable insights and predictions based on the data stored in the database.<br>
+CAD Phase 4:-<br>
     - Machine Learning Algorithm Used: Multiple Regression
     - DataSet Used: USA House Price Dataset
     - Visualization Techniques Used: Matplotlib Scatter
