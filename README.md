@@ -1,4 +1,4 @@
-# IBM NaanMudalvan Project Description 
+# IBM Project Description 
 CAD Phase 1:-<br>
 <p> - Machine Learning Algorithm Used: Linear Regression<br>
     - DataSet Used: IMD (Indian Meteorological Department) Temperature Analysis<br>
