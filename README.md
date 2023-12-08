@@ -1,6 +1,6 @@
 # IBM Project Repository
 
-[![IBM Logo](images/ibmlogo.png)](https://www.ibm.com)
+[!(images/ibmlogo.png)](https://www.ibm.com)
 
 ### CAD Phase 1: Linear Regression on IMD Temperature Analysis
 
