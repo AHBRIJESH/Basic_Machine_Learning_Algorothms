@@ -1,6 +1,6 @@
 # IBM Project Repository
 
-## Climate Analysis and Prediction (CAD) Phases Overview
+![IBM Logo](images/ibm_logo.png)
 
 ### CAD Phase 1: Linear Regression on IMD Temperature Analysis
 
