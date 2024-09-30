@@ -1,4 +1,4 @@
-# IBM Project Repository
+# Basic Machine Learning Algorithms
 
 [![IBM Logo](images/ibmlogo.png)](https://www.ibm.com)
 
