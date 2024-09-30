@@ -1,7 +1,4 @@
 # Basic Machine Learning Algorithms
-
-[![IBM Logo](images/ibmlogo.png)](https://www.ibm.com)
-
 ### CAD Phase 1: Linear Regression on IMD Temperature Analysis
 
 - **Machine Learning Algorithm Used:** Linear Regression
